@@ -15,7 +15,7 @@
             "has_pdf_acc": true,
             "contact_mail": [],
             "website_url": [
-                "http://www.humanitesouveraine.crd.co)"
+                "http://www.humanitesouveraine.crd.co"
             ]
         },
         {
@@ -376,7 +376,7 @@
             "contact_mail": [
                 "contact@parti-des-travailleurs.fr"
             ],
-            "website_url": []
+            "website_url": ["parti-des-travailleurs.fr"]
         },
         {
             "nomTeteListe": "PHILIPPOT",
@@ -456,9 +456,9 @@
             "has_falc_acc": false,
             "has_pdf_acc": false,
             "contact_mail": [
-                "anc@ancommunistes.frNous"
+                "anc@ancommunistes.fr"
             ],
-            "website_url": []
+            "website_url": ["https://ancommunistes.fr/"]
         },
         {
             "nomTeteListe": "LASSALLE",
@@ -574,7 +574,7 @@
             "has_falc_acc": false,
             "has_pdf_acc": false,
             "contact_mail": [
-                "info@ecologieaucentre.comGarantir"
+                "info@ecologieaucentre.com"
             ],
             "website_url": []
         },
@@ -611,7 +611,7 @@
             "has_pdf_acc": false,
             "contact_mail": [],
             "website_url": [
-                "https://europe2024.fr/bulletins/Apr"
+                "https://europe2024.fr"
             ]
         },
         {
