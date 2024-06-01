@@ -32,7 +32,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://decidonsnousmemes.fr/"]
     },
     {
       "nomTeteListe": "MARÉCHAL",
@@ -196,7 +196,7 @@
       "contact_mail": [
         "contact@pace-europe.eu"
       ],
-      "website_url": []
+      "website_url": ["https://pace-europe.eu"]
     },
     {
       "nomTeteListe": "CHOLLEY",
@@ -212,7 +212,7 @@
       "has_falc_acc": true,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://parti-equinoxe.fr/"]
     },
     {
       "nomTeteListe": "WEHRLING",
@@ -228,7 +228,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://www.ecologiepositiveetterritoires.eu/"]
     },
     {
       "nomTeteListe": "ASSELINEAU",
@@ -244,7 +244,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://www.upr.fr/actualite/profession-de-foi-de-la-liste-asselineau-frexit-pour-le-pouvoir-dachat-et-pour-la-paix/"]
     },
     {
       "nomTeteListe": "SIMONIN",
@@ -326,7 +326,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://changerleurope.com/"]
     },
     {
       "nomTeteListe": "RENARD-KUZMANOVIC",
@@ -342,7 +342,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://www.nous-le-peuple.fr/"]
     },
     {
       "nomTeteListe": "LABIB",
@@ -376,7 +376,7 @@
       "contact_mail": [
         "contact@parti-des-travailleurs.fr"
       ],
-      "website_url": ["parti-des-travailleurs.fr"]
+      "website_url": ["https://parti-des-travailleurs.fr"]
     },
     {
       "nomTeteListe": "PHILIPPOT",
@@ -408,7 +408,7 @@
       "has_falc_acc": true,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://pnem.eu/"]
     },
     {
       "nomTeteListe": "BONNEAU",
@@ -490,9 +490,9 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [
-        "contact@francelibre-2024.frL"
+        "contact@francelibre-2024.fr"
       ],
-      "website_url": []
+      "website_url": ["https://francelibre-2024.fr"]
     },
     {
       "nomTeteListe": "LACROIX",
@@ -526,7 +526,7 @@
       "contact_mail": [
         "laruchecitoyenne@gmail.com"
       ],
-      "website_url": []
+      "website_url": ["https://www.laruchecitoyenne.eu/"]
     },
     {
       "nomTeteListe": "DEFFONTAINES",
@@ -558,7 +558,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": false,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://defendre-les-enfants.eu/"]
     },
     {
       "nomTeteListe": "GOVERNATORI",
@@ -628,7 +628,7 @@
       "has_falc_acc": false,
       "has_pdf_acc": true,
       "contact_mail": [],
-      "website_url": []
+      "website_url": ["https://www.groupe-ldf.fr/"]
     }
   ]
 }
