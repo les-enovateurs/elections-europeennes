@@ -1,0 +1,2 @@
+- Ajout des informations de couleurs de parties : https://fr.wikipedia.org/wiki/Liste_des_listes_aux_%C3%A9lections_europ%C3%A9ennes_de_2024_en_France
+- Positionnement manuelle pour representation graphique à affiner pour le fichier [program-accessibilite-rgpd-ecoindex.json](program-accessibilite-rgpd-ecoindex.json)

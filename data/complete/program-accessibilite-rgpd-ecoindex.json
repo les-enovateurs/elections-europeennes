@@ -17,7 +17,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 59,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.82
+            "ecoindex_ges": 1.82,
+            "color": "#eeeeee",
+            "emicentre_position":0
         },
         {
             "nomListe": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
@@ -36,7 +38,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 38,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.24
+            "ecoindex_ges": 2.24,
+            "color": "#404040",
+            "emicentre_position":100
         },
         {
             "nomListe": "LA FRANCE INSOUMISE - UNION POPULAIRE",
@@ -55,7 +59,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 29,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.42
+            "ecoindex_ges": 2.42,
+            "color": "#cc2443",
+            "emicentre_position":-100
         },
         {
             "nomListe": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
@@ -74,7 +80,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 65,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.7
+            "ecoindex_ges": 1.7,
+            "color": "#0D378A",
+            "emicentre_position": 90
         },
         {
             "nomListe": "EUROPE ÉCOLOGIE",
@@ -93,7 +101,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 55,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 1.9
+            "ecoindex_ges": 1.9,
+            "color": "#00c000",
+            "emicentre_position": -50
         },
         {
             "nomListe": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
@@ -112,7 +122,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 33,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.34
+            "ecoindex_ges": 2.34,
+            "color": "#eeeeee",
+            "emicentre_position": 0
         },
         {
             "nomListe": "PARTI PIRATE",
@@ -131,7 +143,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 74,
             "ecoindex_grade": "B",
-            "ecoindex_ges": 1.52
+            "ecoindex_ges": 1.52,
+            "color": "#eeeeee",
+            "emicentre_position": 0
         },
         {
             "nomListe": "BESOIN D'EUROPE",
@@ -150,7 +164,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 47,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 2.06
+            "ecoindex_ges": 2.06,
+            "color": "#ffeb00",
+            "emicentre_position": 30
         },
         {
             "nomListe": "PACE - PARTI DES CITOYENS EUROPÉENS, POUR L'ARMÉE EUROPÉENNE, POUR L'EUROPE SOCIALE , POUR LA PLANÈTE !",
@@ -169,7 +185,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 48,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 2.04
+            "ecoindex_ges": 2.04,
+            "color": "#ffc0c0",
+            "emicentre_position": -30
         },
         {
             "nomListe": "ÉQUINOXE : ÉCOLOGIE PRATIQUE ET RENOUVEAU DÉMOCRATIQUE",
@@ -188,7 +206,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 44,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 2.12
+            "ecoindex_ges": 2.12,
+            "color": "#77ff77",
+            "emicentre_position": -30
         },
         {
             "nomListe": "ECOLOGIE POSITIVE ET TERRITOIRES",
@@ -207,7 +227,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 53,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 1.94
+            "ecoindex_ges": 1.94,
+            "color": "#77ff77",
+            "emicentre_position": -30
         },
         {
             "nomListe": "LISTE ASSELINEAU-FREXIT, POUR LE POUVOIR D'ACHAT ET POUR LA PAIX",
@@ -226,7 +248,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 32,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.36
+            "ecoindex_ges": 2.36,
+            "color": "#118088",
+            "emicentre_position": 80
         },
         {
             "nomListe": "POUR UNE AUTRE EUROPE",
@@ -245,7 +269,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 72,
             "ecoindex_grade": "B",
-            "ecoindex_ges": 1.56
+            "ecoindex_ges": 1.56,
+            "color": "#adc1fd",
+            "emicentre_position": 30
         },
         {
             "nomListe": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
@@ -264,7 +290,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 59,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.82
+            "ecoindex_ges": 1.82,
+            "color": "#0066CC",
+            "emicentre_position": 50
         },
         {
             "nomListe": "CHANGER L'EUROPE",
@@ -283,7 +311,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 47,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 2.06
+            "ecoindex_ges": 2.06,
+            "color": "#ffc0c0",
+            "emicentre_position": -30
         },
         {
             "nomListe": "NOUS LE PEUPLE",
@@ -302,7 +332,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 37,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.26
+            "ecoindex_ges": 2.26,
+            "color": "#ffc0c0",
+            "emicentre_position": 30
         },
         {
             "nomListe": "POUR UN MONDE SANS FRONTIERES NI PATRONS, URGENCE REVOLUTION !",
@@ -321,7 +353,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 16,
             "ecoindex_grade": "F",
-            "ecoindex_ges": 2.68
+            "ecoindex_ges": 2.68,
+            "color": "#bb0000",
+            "emicentre_position": -100
         },
         {
             "nomListe": "\"POUR LE PAIN, LA PAIX, LA LIBERTÉ !\" PRÉSENTÉE PAR LE PARTI DES TRAVAILLEURS",
@@ -340,7 +374,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 24,
             "ecoindex_grade": "F",
-            "ecoindex_ges": 2.52
+            "ecoindex_ges": 2.52,
+            "color": "#bb0000",
+            "emicentre_position": -100
         },
         {
             "nomListe": "NON ! PRENONS-NOUS EN MAINS",
@@ -359,7 +395,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 68,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.64
+            "ecoindex_ges": 1.64,
+            "color": "#404040",
+            "emicentre_position": 100
         },
         {
             "nomListe": "NON À L'UE ET À L'OTAN, COMMUNISTES POUR LA PAIX ET LE PROGRÈS SOCIAL",
@@ -378,7 +416,51 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 81,
             "ecoindex_grade": "A",
-            "ecoindex_ges": 1.38
+            "ecoindex_ges": 1.38,
+            "color": "#bb0000",
+            "emicentre_position": -100
+        },
+        {
+            "nomListe": "RÉVEILLER L'EUROPE",
+            "website_url": "https://www.glucksmann2024.eu/",
+            "numPanneau": 27,
+            "has_pdf": true,
+            "has_falc": true,
+            "has_falc_acc": true,
+            "has_pdf_acc": true,
+            "pdf": "0",
+            "falc_acc": "1-liste-27-falc-acc",
+            "pdf_acc": "1-liste-27-acc",
+            "falc": "0",
+            "lighthouse_acc": 0.75,
+            "rgpd_mentions_legales": 1,
+            "rgpd_politiques_confidentialite": 0,
+            "ecoindex_score": 66,
+            "ecoindex_grade": "C",
+            "ecoindex_ges": 1.68,
+            "color": "#FF8080",
+            "emicentre_position": -50
+        },
+        {
+            "nomListe": "NON À L'UE ET À L'OTAN, COMMUNISTES POUR LA PAIX ET LE PROGRÈS SOCIAL",
+            "website_url": "https://ancommunistes.fr/",
+            "numPanneau": 28,
+            "has_pdf": true,
+            "has_falc": false,
+            "has_falc_acc": false,
+            "has_pdf_acc": false,
+            "pdf": "1-liste-28",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "lighthouse_acc": 0.81,
+            "rgpd_mentions_legales": 1,
+            "rgpd_politiques_confidentialite": 1,
+            "ecoindex_score": 81,
+            "ecoindex_grade": "A",
+            "ecoindex_ges": 1.38,
+            "color": "#bb0000",
+            "emicentre_position": -100
         },
         {
             "nomListe": "ALLIANCE RURALE",
@@ -397,7 +479,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 25,
             "ecoindex_grade": "F",
-            "ecoindex_ges": 2.5
+            "ecoindex_ges": 2.5,
+            "color": "#26c4ec",
+            "emicentre_position": 20
         },
         {
             "nomListe": "FRANCE LIBRE",
@@ -416,7 +500,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 12,
             "ecoindex_grade": "F",
-            "ecoindex_ges": 2.76
+            "ecoindex_ges": 2.76,
+            "color": "#404040",
+            "emicentre_position": 100
         },
         {
             "nomListe": "EUROPE TERRITOIRES ÉCOLOGIE",
@@ -435,7 +521,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 60,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.8
+            "ecoindex_ges": 1.8,
+            "color": "#ffd1dc",
+            "emicentre_position": -30
         },
         {
             "nomListe": "LA RUCHE CITOYENNE",
@@ -454,7 +542,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 73,
             "ecoindex_grade": "B",
-            "ecoindex_ges": 1.54
+            "ecoindex_ges": 1.54,
+            "color": "#eeeeee",
+            "emicentre_position": 0
         },
         {
             "nomListe": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
@@ -473,7 +563,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": null,
             "ecoindex_grade": null,
-            "ecoindex_ges": null
+            "ecoindex_ges": null,
+            "color": "#dd0000",
+            "emicentre_position": -100
         },
         {
             "nomListe": "DEFENDRE LES ENFANTS",
@@ -492,7 +584,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 54,
             "ecoindex_grade": "D",
-            "ecoindex_ges": 1.92
+            "ecoindex_ges": 1.92,
+            "color": "#DCDCDC",
+            "emicentre_position": 0
         },
         {
             "nomListe": "ÉCOLOGIE AU CENTRE",
@@ -511,7 +605,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 57,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.86
+            "ecoindex_ges": 1.86,
+            "color": "#77ff77",
+            "emicentre_position": -30
         },
         {
             "nomListe": "ESPERANTO LANGUE COMMUNE",
@@ -530,7 +626,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 65,
             "ecoindex_grade": "C",
-            "ecoindex_ges": 1.7
+            "ecoindex_ges": 1.7,
+            "color": "#bb0000",
+            "emicentre_position": 0
         },
         {
             "nomListe": "LIBERTÉ DÉMOCRATIQUE FRANÇAISE",
@@ -549,7 +647,9 @@
             "rgpd_politiques_confidentialite": 1,
             "ecoindex_score": 37,
             "ecoindex_grade": "E",
-            "ecoindex_ges": 2.26
+            "ecoindex_ges": 2.26,
+            "color": "#404040",
+            "emicentre_position": 100
         }
     ]
 }
