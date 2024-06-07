@@ -1,6 +1,6 @@
 - liste: La France fière, menée par Marion Maréchal et soutenue par Eric Zemmour
   tete_liste: Marion Maréchal
-  propositions :
+  propositions:
     - Prioriser l’apprentissage et la formation professionnelle dans les métiers en tension ou les industries d’avenir, et notamment les métiers en lien avec le domaine du numérique​​.
     - Les Français doivent pouvoir continuer à utiliser tous les moyens de paiement traditionnels. Ainsi, il faut s’assurer que l’Euro-numérique ne remplace pas les autres moyens de paiement​​.
     - "Souveraineté numérique: Relocaliser sur le sol européen les données numériques des sociétés et des particuliers européens de manière à ce que l’Europe retrouve entièrement sa souveraineté numérique. Cela passe notamment par la construction et la sécurisation des data centers afin d’assurer notre souveraineté dans ce domaine."
@@ -75,7 +75,7 @@
     - Publier, en open data, toutes les rencontres entre lobbyistes et représentants de l’Union européenne (députés, commissaires, fonctionnaires, assistants, membres de cabinet…).
 
 - liste: Parti pirate
-  tete_liste:  Caroline Zorn
+  tete_liste: Caroline Zorn
   propositions:
     - Inclure le droit à la « participation numérique » dans la Charte européenne des droits fondamentaux.
     - Préserver la neutralité du Net en interdisant la restriction ou la priorisation basée sur la nature du contenu/service et en limitant les mesures de gestion du trafic pour des raisons techniques et appliquées de manière claire et transparente.
@@ -97,10 +97,10 @@
 - liste: "Equinoxe : écologie pratique et renouveau démocratique"
   tete_liste: Marine Cholley
   propositions:
-   - Encadrer plus strictement l’ensemble des acteurs numériques en interdisant notamment la collecte de données personnelles à but commercial et les techniques de captage de l’attention.
-   - Réguler les services d’intelligence artificielle pour répondre aux enjeux éthiques, sociaux et économiques et exiger de la transparence sur les algorithmes.
-   - Protéger les mineurs en obligeant l’ensemble des plateformes jugées à risque de vérifier l’âge des visiteurs.
-   - Ré-humaniser les démarches du quotidien en préservant plusieurs modalités d’accès non dématérialisées aux services publics et aux achats courants.
+    - Encadrer plus strictement l’ensemble des acteurs numériques en interdisant notamment la collecte de données personnelles à but commercial et les techniques de captage de l’attention.
+    - Réguler les services d’intelligence artificielle pour répondre aux enjeux éthiques, sociaux et économiques et exiger de la transparence sur les algorithmes.
+    - Protéger les mineurs en obligeant l’ensemble des plateformes jugées à risque de vérifier l’âge des visiteurs.
+    - Ré-humaniser les démarches du quotidien en préservant plusieurs modalités d’accès non dématérialisées aux services publics et aux achats courants.
 
 - liste: La droite pour faire entendre la voix de la France en Europe
   tete_liste: François-Xavier Bellamy
@@ -161,8 +161,7 @@
     - Nous voulons que le numérique vienne appuyer la souveraineté agricole et soutenons un usage raisonné des technologies, notamment spatiales d’observation et géolocalisation. Cela permettrait, par exemple, de mieux réguler la quantité d’intrants et l’irrigation des sols.
     - Nous voulons développer notre indépendance et notre souveraineté en matière de géolocalisation, observation et télécommunications spatiales, en relançant notamment et achevant le programme Galileo, actuellement réalisé à seulement 20%, en soutenant la réalisation sous véritable contrôle public du projet IRIS2, et plus globalement en défendant une politique spatiale européenne ambitieuse et souveraine.
     - Nous luttons contre l’obsolescence programmée, en favorisant les matériels électroniques reconditionnés, à commencer par les institutions de l’Union européenne et dans les programmes bénéficiant de fonds européens. Et nous soutenons, à cette fin, le développement de programmes de recherche visant à bien comprendre le cycle de vie des produits et équipements de la chaîne numérique et déterminer la manière d’en optimiser l’usage socialement utile en réduisant les impacts environnementaux.
-    - Face à la vague de l’intelligence artificielle, nous voulons mettre en place des garde-fous démocratiques permettant d’assurer leur déploiement utile à la société et la maîtrise de leurs effets potentiellement destructeurs, notamment en termes d’emplois. Des garde-fous basés sur des critères de défense de l’intérêt général doivent être mis en place intégrant:
-    - La formation sur ces questions des professionnelles et professionnels et leur mise en débat à l’échelle de toute la société.
+    - Face à la vague de l’intelligence artificielle, nous voulons mettre en place des garde-fous démocratiques permettant d’assurer leur déploiement utile à la société et la maîtrise de leurs effets potentiellement destructeurs, notamment en termes d’emplois. Des garde-fous basés sur des critères de défense de l’intérêt général doivent être mis en place intégrant la formation sur ces questions des professionnelles et professionnels et leur mise en débat à l’échelle de toute la société.
     - La constitution d’une plateforme européenne d’audit des algorithmes, en favorisant pour cela les logiciels en source ouverte, et plus globalement en développant les moyens publics de suivi et anticipation des impacts sociaux et environnementaux des technologies numériques. Notre ambition est de mettre en place au plus tôt les réglementations nécessaires à la maîtrise sociale et démocratique de domaines en évolution rapide.
 
 - liste: Ecologie au centre
