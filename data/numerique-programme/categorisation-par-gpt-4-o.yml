@@ -1,0 +1,505 @@
+- liste: La France fière
+  tete_liste: Marion Maréchal
+  propositions:
+    - description: Prioriser l’apprentissage et la formation professionnelle dans les métiers en tension ou les industries d’avenir, et notamment les métiers en lien avec le domaine du numérique.
+      theme: Formation professionnelle, Numérique
+      objectif: Promotion des compétences numériques
+
+    - description: Les Français doivent pouvoir continuer à utiliser tous les moyens de paiement traditionnels. Ainsi, il faut s’assurer que l’Euro-numérique ne remplace pas les autres moyens de paiement.
+      theme: Finance, Monnaie numérique
+      objectif: Préservation des moyens de paiement traditionnels
+
+    - description: Souveraineté numérique: Relocaliser sur le sol européen les données numériques des sociétés et des particuliers européens.
+      theme: Souveraineté numérique, Sécurité des données
+      objectif: Relocalisation des données
+
+    - description: Intensifier la recherche en numérique en impulsant notamment des programmes de recherche en robotique, en intelligence artificielle et en numérique.
+      theme: Recherche, Intelligence artificielle, Robotique
+      objectif: Modernisation des entreprises, Aide aux métiers en tension
+
+    - description: En matière d’intelligence artificielle, favoriser et stimuler l’écosystème entrepreneurial européen tout en incluant des garde-fous éthiques.
+      theme: Intelligence artificielle, Éthique
+      objectif: Promotion de l'écosystème entrepreneurial européen
+
+    - description: Renégocier l’IA Act.
+      theme: Régulation, Intelligence artificielle
+      objectif: Révision des législations existantes
+
+    - description: Viser la souveraineté pour le matériel informatique et les logiciels employés dans les institutions.
+      theme: Souveraineté numérique, Sécurité
+      objectif: Indépendance technologique européenne
+
+
+- liste: La France Insoumise
+  tete_liste: Manon Aubry
+  propositions:
+    - description: Inscrire la neutralité du net dans la Charte des droits fondamentaux de l’Union européenne.
+      theme: Neutralité du net, Droits fondamentaux
+      objectif: Accès égal et traitement équitable en ligne
+
+    - description: Renforcer les dispositions des règlements sur les services numériques pour mieux encadrer l’activité des GAFAM et garantir la protection des citoyens.
+      theme: Régulation, Protection des données
+      objectif: Encadrement des GAFAM
+
+    - description: Refuser tout accord d’exfiltration de données personnelles et stratégiques en dehors de l’espace français et de l’Union européenne.
+      theme: Sécurité des données, Souveraineté numérique
+      objectif: Protection des données nationales et européennes
+
+    - description: Investir dans la recherche publique, notamment sur les nouvelles technologies, et développer les coopérations entre universités et centres de recherches européens.
+      theme: Recherche, Nouvelles technologies
+      objectif: Développement technologique européen
+
+    - description: Réformer le système mondial des droits de propriété intellectuelle pour soutenir le transfert des nouvelles technologies écologiquement durables.
+      theme: Propriété intellectuelle, Technologie durable
+      objectif: Soutien aux technologies écologiques
+
+    - description: Planifier une politique ambitieuse de câbles internet sous-marins transcontinentaux alternatifs à ceux transitant pour le Royaume-Uni et les États-Unis.
+      theme: Infrastructure numérique, Connectivité
+      objectif: Indépendance infrastructurelle
+
+    - description: Planifier une politique ambitieuse de super-calculateurs et de relocalisation des infrastructures numériques.
+      theme: Super-calculateurs, Relocalisation
+      objectif: Décentralisation des infrastructures numériques
+
+    - description: Lutter contre l’introduction de brevets dans l’industrie logicielle pour protéger l'autonomie des PME.
+      theme: Brevets, Industrie logicielle
+      objectif: Protection des PME
+
+    - description: Soutenir une planification numérique axée sur les secteurs du logiciel libre.
+      theme: Logiciel libre, Planification numérique
+      objectif: Promotion du logiciel libre
+
+    - description: Développer une politique de modération des contenus en ligne alternative et inclusive.
+      theme: Modération des contenus, Inclusion
+      objectif: Transparence et respect des travailleurs en ligne
+
+    - description: Inciter les États-membres à faire passer les « loot boxes » payantes dans la juridiction des régulateurs de jeux d’argent.
+      theme: Régulation, Jeux d’argent
+      objectif: Régulation des loot boxes
+
+    - description: Investir dans une planification écologique du numérique: favoriser le codage vert et le low tech.
+      theme: Écologie numérique, Codage vert
+      objectif: Développement durable numérique
+
+    - description: Garantir un euro numérique 100% public, qui respecte la vie privée des usagers.
+      theme: Monnaie numérique, Vie privée
+      objectif: Protection de la vie privée
+
+    - description: Renforcer drastiquement la régulation européenne sur le secteur des crypto monnaies.
+      theme: Régulation, Crypto monnaies
+      objectif: Encadrement des pratiques spéculatives
+
+    - description: Adopter une réglementation européenne pour restreindre les activités des plateformes type Airbnb.
+      theme: Régulation, Logement
+      objectif: Contrôle du marché locatif
+
+    - description: Adopter une directive sur la santé et la sécurité des travailleurs relative aux risques psychosociaux.
+      theme: Santé au travail, Sécurité
+      objectif: Protection des travailleurs
+
+    - description: Élargir le POSEI aux domaines de la pêche artisanale, des transports, de la connectivité, de l’énergie et du numérique.
+      theme: POSEI, Connectivité
+      objectif: Soutien aux régions éloignées et insulaires
+
+    - description: Établir un plan européen de sobriété, mettre fin au gaspillage et à l’obsolescence programmée.
+      theme: Durabilité, Sobriété
+      objectif: Réduction du gaspillage
+
+    - description: Assurer la protection du secret des sources des journalistes, avec l’interdiction d’utilisation de logiciels espions.
+      theme: Liberté de la presse, Sécurité
+      objectif: Protection des journalistes
+
+    - description: Créer un observatoire européen de la liberté d’information dans l’Union européenne.
+      theme: Liberté d'information, Surveillance
+      objectif: Surveillance des entraves au travail des journalistes
+
+    - description: S’opposer à la marchandisation du service public d’éducation et aux pressions des lobbies GAFAM.
+      theme: Éducation, Lobbying
+      objectif: Protection du service public d’éducation
+
+    - description: Soutenir dans le cadre de l’ONU l’élaboration d’instruments internationaux de protection des biens publics mondiaux.
+      theme: Régulation internationale, Biens publics
+      objectif: Protection des biens publics mondiaux
+
+- liste: La France revient ! Avec Jordan Bardella et Marine Le Pen
+  tete_liste: Jordan Bardella
+  propositions:
+    - description: "Développer des coopérations industrielles et techniques sur les grands projets d’avenir: aérospatial, Défense, intelligence artificielle, cloud européen pour stocker nos données stratégiques, filière hydrogène, ou encore voiture propre."
+      theme: Coopérations industrielles, Aérospatial, Défense, Intelligence artificielle, Cloud, Hydrogène, Voiture propre
+      objectif: Promotion des projets d'avenir, Stockage de données stratégiques
+
+    - description: Défendre la constitution d’un cloud souverain européen, et non d’un simple « cloud de confiance » perméable aux ingérences juridiques américaines et chinoises.
+      theme: Souveraineté numérique, Cloud
+      objectif: Protection contre les ingérences étrangères, Stockage de données stratégiques
+
+    - description: Élargir les domaines éligibles aux Projets importants d’intérêt européen commun (PIIEC) et en assouplir les règles d’accès afin de créer un environnement complet en faveur de l’Intelligence artificielle.
+      theme: Intelligence artificielle, Projets européens
+      objectif: Promotion de l'IA, Assouplissement des règles d'accès
+
+    - description: Revoir les règles de la concurrence européenne pour autoriser la concentration des acteurs et créer des champions européens du numérique qui atteindront ainsi une taille critique au niveau mondial.
+      theme: Concurrence, Numérique
+      objectif: Création de champions européens, Taille critique mondiale
+
+    - description: "Combler les dépendances stratégiques dans le domaine de la Défense: l’IA est déjà une réalité sur les théâtres d’opérations (aide à la prise de décision, collecte et traitement du renseignement, analyse d’images satellites, etc.) et cette tendance va s’amplifier. L’Europe technologique doit aider les forces armées nationales à se doter d’applications et de solutions ne souffrant d’aucune dépendance critique."
+      theme: Défense, Intelligence artificielle
+      objectif: Réduction des dépendances stratégiques, Applications militaires
+
+- liste: Europe Écologie
+  tete_liste: Marie Toussaint
+  propositions:
+    - description: Encadrer les consommations des datacenters sur le sol européen, sur l’énergie, l’eau et les gaz et substances de refroidissement. Nous devons garantir leur juste répartition sur le territoire et prendre en compte leur consommation au vu des ressources localement disponibles pour éviter que celles-ci soient soustraites aux besoins locaux. Le secteur numérique doit être alimenté en énergies renouvelables. Rendre la récupération de chaleur issue des datacenters obligatoire.
+      theme: Consommation énergétique, Datacenters
+      objectif: Durabilité, Énergies renouvelables
+
+    - description: Interdire le surdimensionnement des centres de stockage qui dédoublent les données (parfois 6 ou 7 fois) et entraînent une consommation inutile mais massive en électricité: 30% des équipements sont allumés sans servir et certains datacenters gaspillent jusqu’à 90% de l’électricité qu’ils consomment.
+      theme: Consommation électrique, Datacenters
+      objectif: Réduction du gaspillage énergétique
+
+    - description: Systématiser les études d'impacts pour les grandes infrastructures afin de permettre une évaluation coût-bénéfice de leur impact environnemental et de leurs apports sociétaux.
+      theme: Évaluation d'impact, Infrastructures
+      objectif: Durabilité, Évaluation coût-bénéfice
+
+    - description: Exiger la transparence sur la localisation, le nombre et l'impact environnemental des datacenters.
+      theme: Transparence, Datacenters
+      objectif: Informations environnementales
+
+    - description: Mettre en place des consultations et décisions citoyennes sur les grands projets d'infrastructures numériques et les financements publics dédiés au secteur.
+      theme: Participation citoyenne, Infrastructures numériques
+      objectif: Décision participative
+
+    - description: Rendre obligatoire l’affichage de la performance environnementale des produits et services numériques pour que les consommateurs soient en mesure de consommer en connaissance de cause. Mettre fin au renouvellement prématuré des terminaux électroniques, qui représentent plusieurs millions d’objets chaque année et constituent la part majoritaire du secteur du numérique.
+      theme: Performance environnementale, Produits numériques
+      objectif: Consommation éclairée, Réduction des déchets
+
+    - description: Établir des critères et des objectifs obligatoires de durabilité dans les achats publics.
+      theme: Durabilité, Achats publics
+      objectif: Critères obligatoires de durabilité
+
+    - description: S’appuyer sur le numérique pour améliorer la planification et la gestion des réseaux énergétiques, afin d’équilibrer les volumes de production des énergies renouvelables. Un grand plan de planification et de gestion doit être développé, basé sur le pilotage des données, pour optimiser les flux d’énergie et influer aussi sur les prix.
+      theme: Gestion énergétique, Énergies renouvelables
+      objectif: Optimisation des flux d’énergie
+
+    - description: Briser le monopole des GAFAM en Europe en garantissant l'interopérabilité des services numériques en s’appuyant sur les acquis du Digital Market Act, à élargir à d’autres activités monopolistiques que celles actuellement couvertes.
+      theme: Interopérabilité, Monopoles numériques
+      objectif: Briser le monopole des GAFAM
+
+    - description: Soutenir le développement d’alternatives européennes aux GAFAM, en sortant de la logique de géants oligopolistiques, avec des investissements européens ciblés vers la souveraineté numérique européenne, le développement de logiciels libres et la contribution des acteurs du numérique à la transition juste.
+      theme: Alternatives numériques, Logiciels libres
+      objectif: Souveraineté numérique, Transition juste
+
+    - description: Taxer les GAFAM et confier à la Commission la vérification des impôts payés sur le continent pour qu’ils correspondent à l’activité qui y est réalisée.
+      theme: Fiscalité, GAFAM
+      objectif: Équité fiscale
+
+    - description: Assurer aux Européens un droit de ne pas être traqués en ligne, en encadrant la publicité ciblée privilégiant la publicité contextuelle et en assurant la gratuité du droit à la vie privée en ligne.
+      theme: Vie privée, Publicité ciblée
+      objectif: Protection de la vie privée
+
+    - description: Garantir une réactivité législative en matière d’intelligence artificielle (IA) en créant une instance de suivi des innovations technologiques et une réadaptation rapide du cadre réglementaire en la matière. Cette gouvernance, composée d’experts, parlementaires et de citoyens, devra à la fois s’assurer de la non-obsolescence des textes européens, mais aussi déclencher des alertes en cas de déploiements technologiques non conformes avec les objectifs environnementaux et la défense des droits humains.
+      theme: Régulation, Intelligence artificielle
+      objectif: Réactivité législative, Suivi des innovations
+
+    - description: Lutter contre l’automatisation de toutes les discriminations en encadrant l’impact sur les droits fondamentaux des systèmes algorithmiques et en faisant de la non-discrimination un principe obligatoire de tout traitement algorithmique.
+      theme: Droits fondamentaux, Algorithmes
+      objectif: Non-discrimination, Encadrement algorithmique
+
+    - description: Lutter contre les algorithmes de contrôle social en interdisant particulièrement le profilage/scoring des bénéficiaires d’aides et services publics.
+      theme: Contrôle social, Profilage
+      objectif: Protection des bénéficiaires de services publics
+
+- liste: Parti animaliste - les animaux comptent, votre voix aussi
+  tete_liste: Hélène Thouy
+  propositions:
+    - description: Financer le développement de techniques et de technologies visant à prévenir les collisions entre les animaux et les véhicules.
+      theme: Technologies préventives, Sécurité animale
+      objectif: Prévention des collisions, Protection des animaux
+
+    - description: Mandater des groupes d’experts au sujet de l’exposition des animaux aux champs électromagnétiques afin, le cas échéant, de recommander la révision des valeurs limites d’exposition.
+      theme: Champs électromagnétiques, Santé animale
+      objectif: Révision des valeurs limites, Protection des animaux
+
+    - description: Diffuser et financer, dans l’enseignement supérieur, les méthodes d’enseignement sans utilisation d’animaux (vidéos, logiciels de simulations, réalité virtuelle, mannequins…).
+      theme: Enseignement supérieur, Méthodes alternatives
+      objectif: Réduction de l'utilisation des animaux, Éducation
+
+    - description: Mettre en place une vidéosurveillance systématique dans tous les lieux engendrant des souffrances aux animaux (abattoirs, bateaux de pêche, laboratoires, zoos, animaleries, arènes…) et créer une autorité européenne de contrôle.
+      theme: Vidéosurveillance, Protection animale
+      objectif: Réduction des souffrances animales, Contrôle européen
+
+    - description: Mettre en place une vidéosurveillance systématique sur tous les sites d’abattage, dans l’objectif d’adapter la charge de travail physique et psychologique aux capacités humaines et d’éviter les dérives maltraitantes.
+      theme: Vidéosurveillance, Sites d'abattage
+      objectif: Prévention des maltraitances, Bien-être au travail
+
+    - description: Fixer un contrôle annuel minimal inopiné concernant le respect des règles de protection animale et visant tout détenteur d’animaux à des fins économiques ; et rendre public, en open data, tous ces rapports d’inspection dans un délai maximal d’un mois après le contrôle.
+      theme: Protection animale, Transparence
+      objectif: Contrôle annuel, Open data
+
+    - description: Publier, en open data, toutes les rencontres entre lobbyistes et représentants de l’Union européenne (députés, commissaires, fonctionnaires, assistants, membres de cabinet…).
+      theme: Transparence, Lobbying
+      objectif: Publicité des rencontres, Open data
+
+- liste: Parti pirate
+  tete_liste: Caroline Zorn
+  propositions:
+    - description: Inclure le droit à la « participation numérique » dans la Charte européenne des droits fondamentaux.
+      theme: Droits numériques, Participation citoyenne
+      objectif: Inclusion numérique, Renforcement des droits fondamentaux
+
+    - description: Préserver la neutralité du Net en interdisant la restriction ou la priorisation basée sur la nature du contenu/service et en limitant les mesures de gestion du trafic pour des raisons techniques et appliquées de manière claire et transparente.
+      theme: Neutralité du Net, Gestion du trafic
+      objectif: Accès équitable à Internet, Transparence
+
+    - description: Renforcer l’interopérabilité entre les plateformes numériques et en particulier en étendant le droit de l’Union européenne en la matière aux réseaux sociaux.
+      theme: Interopérabilité, Réseaux sociaux
+      objectif: Connexion entre plateformes, Harmonisation des normes
+
+    - description: Obliger les fabricants commerciaux d’appareils à fournir régulièrement des mises à jour de sécurité pendant une période raisonnable et les contraindre à rendre public le code source et les outils de développement nécessaires à la maintenance de solutions encore largement utilisées.
+      theme: Sécurité numérique, Transparence
+      objectif: Maintenance des appareils, Sécurité des utilisateurs
+
+    - description: Renforcer la résilience de l’Europe face aux menaces actuelles et futures de guerres hybrides, de désinformation, de cyber-attaques et de coercition économique.
+      theme: Sécurité, Cyber-résilience
+      objectif: Protection contre les menaces, Renforcement de la résilience
+
+    - description: Règlementer l’IA afin de garantir que chaque citoyen de l’UE puisse en bénéficier.
+      theme: Régulation, Intelligence artificielle
+      objectif: Accessibilité de l'IA, Avantages pour tous
+
+    - description: L’impact environnemental du secteur est à relativiser, il faut aussi intégrer les gains énergétiques globaux que permet le numérique.
+      theme: Impact environnemental, Technologies numériques
+      objectif: Évaluation équilibrée, Reconnaissance des gains énergétiques
+
+- liste: Besoin d'Europe
+  tete_liste: Valérie Hayer
+  propositions:
+    - description: "Numérique: 5 ans pour des capacités de calcul de rang mondial, dont 3 des 5 supercalculateurs parmi les plus puissants au monde."
+      theme: Calcul haute performance, Supercalculateurs
+      objectif: Capacité de calcul mondial, Leadership technologique
+
+    - description: Mieux protéger nos enfants avec la majorité numérique à 15 ans sur les réseaux sociaux, le contrôle parental par défaut sur les mobiles et la vérification systématique de l’âge pour l’accès aux sites internet interdits aux mineurs.
+      theme: Protection des enfants, Réseaux sociaux
+      objectif: Sécurité en ligne, Contrôle parental
+
+    - description: Favoriser l’émergence de champions européens dans le développement des jeux vidéo et valoriser les talents du e-sport.
+      theme: Jeux vidéo, e-sport
+      objectif: Développement de l'industrie, Valorisation des talents
+
+    - description: "Développer Erasmus pour tous les jeunes: en primaire, des jumelages numériques dans toutes les écoles européennes."
+      theme: Éducation, Échanges numériques
+      objectif: Jumelages scolaires, Accessibilité Erasmus
+
+    - description: L’investissement privé s’appuiera sur une « Union de l’épargne et de l’investissement », pour permettre à l’épargne européenne d’être investie en Europe dans l’innovation et les transitions verte et numérique.
+      theme: Investissement, Innovation
+      objectif: Transition verte, Transition numérique
+
+- liste: "Equinoxe : écologie pratique et renouveau démocratique"
+  tete_liste: Marine Cholley
+  propositions:
+    - description: Encadrer plus strictement l’ensemble des acteurs numériques en interdisant notamment la collecte de données personnelles à but commercial et les techniques de captage de l’attention.
+      theme: Protection des données, Captage de l'attention
+      objectif: Préservation de la vie privée, Éthique numérique
+
+    - description: Réguler les services d’intelligence artificielle pour répondre aux enjeux éthiques, sociaux et économiques et exiger de la transparence sur les algorithmes.
+      theme: Intelligence artificielle, Éthique
+      objectif: Régulation éthique, Transparence algorithmique
+
+    - description: Protéger les mineurs en obligeant l’ensemble des plateformes jugées à risque de vérifier l’âge des visiteurs.
+      theme: Protection des mineurs, Contrôle d'âge
+      objectif: Sécurité en ligne, Protection de la jeunesse
+
+    - description: Ré-humaniser les démarches du quotidien en préservant plusieurs modalités d’accès non dématérialisées aux services publics et aux achats courants.
+      theme: Services publics, Accessibilité
+      objectif: Inclusion numérique, Accès diversifié
+
+- liste: La droite pour faire entendre la voix de la France en Europe
+  tete_liste: François-Xavier Bellamy
+  propositions:
+    - description: Investir massivement dans l'intelligence artificielle pour ne pas se laisser distancer par d'autres puissances. Plutôt que de se concentrer sur les normes, l'Union européenne doit investir dans des projets concrets.
+      theme: Intelligence artificielle, Investissement
+      objectif: Leadership technologique, Compétitivité
+
+    - description: Créer un Fond européen pour accompagner les transformations économiques liées à la révolution de l'intelligence artificielle.
+      theme: Intelligence artificielle, Fonds d'accompagnement
+      objectif: Transition économique, Soutien financier
+
+    - description: Développer un plan pour faire émerger des champions européens dans l'intelligence artificielle et la cybersécurité.
+      theme: Intelligence artificielle, Cybersécurité
+      objectif: Souveraineté numérique, Innovation européenne
+
+    - description: Établir un véritable droit de propriété sur les données personnelles en laissant chaque individu choisir ce qu'il souhaite en faire (les protéger ou les exposer).
+      theme: Données personnelles, Propriété
+      objectif: Contrôle des données, Respect de la vie privée
+
+    - description: Interdire les plateformes et réseaux sociaux sous le contrôle de gouvernements autoritaires, comme TikTok.
+      theme: Réseaux sociaux, Censure
+      objectif: Protection de la liberté d'expression, Sécurité en ligne
+
+    - description: Interdire l'accès des réseaux sociaux aux jeunes de moins de 15 ans au sein de l'Union européenne, en créant une "majorité numérique".
+      theme: Réseaux sociaux, Protection de la jeunesse
+      objectif: Sécurité en ligne, Protection de l'enfance
+
+    - description: Créer un livret d'épargne européen pour financer les secteurs stratégiques. Il serait alors destiné à orienter l'épargne privée vers des secteurs stratégiques tels que la défense, le numérique, les biotechnologies et la transition écologique.
+      theme: Épargne, Investissement
+      objectif: Financement stratégique, Transition économique
+- liste: L'Europe ça suffit !
+  tete_liste: Florian Philippot
+  propositions:
+    - description: Rejeter l'identité numérique européenne, première étape vers le crédit social à la chinoise !
+      theme: Identité numérique, Vie privée
+      objectif: Protection des données, Liberté individuelle
+
+    - description: Défendre la liberté d'expression contre la censure des réseaux sociaux.
+      theme: Liberté d'expression, Censure
+      objectif: Liberté d'expression en ligne, Contre la censure
+
+    - description: Constitutionnaliser l'argent liquide, gage de liberté, et refuser l'euro numérique, outil de surveillance généralisée.
+      theme: Monnaie, Vie privée
+      objectif: Liberté financière, Protection de la vie privée
+
+- liste: Réveiller l'Europe
+  tete_liste: Raphael Glucksmann
+  propositions:
+    - description: Assurer la souveraineté industrielle européenne en développant une politique industrielle du numérique offensive, en créant un fonds souverain pour investir dans le numérique, en imposant des obligations de financement sur le territoire européen aux géants étrangers (les Gafam et les Batx) en contrepartie de l’accès à notre marché et en poussant un accord international sur l’intelligence artificielle.
+      theme: Souveraineté industrielle, Investissement
+      objectif: Compétitivité européenne, Autonomie technologique
+
+    - description: Améliorer les conditions de travail en assurant la protection des droits sociaux et fondamentaux des travailleurs par une directive sur l’utilisation de l’IA et des nouveaux outils numériques dans le monde du travail (mode de recrutement, surveillance et contrôle, etc.).
+      theme: Conditions de travail, Intelligence artificielle
+      objectif: Protection des travailleurs, Éthique professionnelle
+
+    - description: Lutter contre la fracture numérique et imposer que tout investissement privé dans le numérique s’accompagne de financements pour renforcer les infrastructures et services numériques dans les territoires ruraux.
+      theme: Fracture numérique, Inclusion
+      objectif: Égalité d'accès, Développement rural
+
+    - description: Garantir l’accessibilité universelle au numérique aux personnes en situation de handicap.
+      theme: Accessibilité, Handicap
+      objectif: Inclusion numérique, Égalité des chances
+
+    - description: Associer à la transition numérique de l’Union européenne une révolution démocratique, notamment via l’éducation au numérique pour tous, pour assurer la maîtrise des services numériques par l’ensemble des citoyens. Soutenir une politique ambitieuse d’« open data » (données publiques), améliorant le droit d’accès aux informations publiques des citoyens.
+      theme: Transition numérique, Démocratie
+      objectif: Éducation numérique, Transparence gouvernementale
+
+    - description: L’Europe de l’intelligence artificielle : Engager à l’échelle européenne une réflexion commune sur les intelligences artificielles dans le secteur culturel et artistique (protection du droit d’auteur, coût environnemental des intelligences artificielles, etc.).
+      theme: Intelligence artificielle, Culture
+      objectif: Innovation culturelle, Protection des droits d'auteur
+
+    - description: Assurer la protection des créateurs et ayants droit dans le marché européen de l’intelligence artificielle générative.
+      theme: Intelligence artificielle, Propriété intellectuelle
+      objectif: Protection des droits d'auteur, Régulation du marché
+
+    - description: S’assurer qu’un contrôle humain et une approche non-discriminatoire sont appliqués à l’ensemble des services numériques faisant appel à l’intelligence artificielle – et en particulier l’intelligence artificielle générative.
+      theme: Intelligence artificielle, Éthique
+      objectif: Transparence algorithmique, Égalité d'accès
+
+    - description: Réguler l’espace numérique et les réseaux sociaux à la jeune génération de manière à lutter contre le cyberharcèlement, les pratiques abusives, la manipulation de l’information et les ingérences étrangères en ligne, assurer l’éducation aux médias et au numérique partout en Europe.
+      theme: Réseaux sociaux, Régulation
+      objectif: Sécurité en ligne, Éducation aux médias
+
+    - description: Mutualiser les dettes européennes pour soutenir, entre autres, les grands projets européens en matière de numérique.
+      theme: Financement, Numérique
+      objectif: Investissement européen, Solidarité économique
+
+- liste: Europe territoires écologie
+  tete_liste: Guillaume Lacroix
+  propositions:
+    - description: Faire de l’UE le champion de l’IA humaniste, durable et maîtrisée en renforçant la sécurité des données à caractère personnel et la lutte contre la cybermalveillance.
+      theme: Intelligence artificielle, Éthique
+      objectif: IA durable, Sécurité des données
+
+    - description: Créer un Défenseur des droits européen pour développer des standards communs pour éviter les biais algorithmiques et garantir l’audit obligatoire des IA les plus sensibles pour empêcher les discriminations. Il sera aussi chargé de superviser la mise en œuvre de la réglementation sur l’IA, d'évaluer ses impacts sociétaux et de sanctionner les entreprises ne respectant pas les règles.
+      theme: Intelligence artificielle, Droits de l'homme
+      objectif: Éthique algorithmique, Lutte contre les discriminations
+
+    - description: Accompagner l’évolution des métiers provoquée par l’IA à travers la création d’un fonds dédié. Celui-ci sera opéré par le Défenseur des droits numériques précédemment créé et soutiendra la formation et la requalification des travailleurs salariés ou indépendants, axé sur les compétences numériques.
+      theme: Intelligence artificielle, Formation professionnelle
+      objectif: Adaptation professionnelle, Emploi numérique
+
+    - description: Renforcer la mise en œuvre du RGPD et sa supervision afin de garantir le droit fondamental à la vie privée.
+      theme: Protection des données, Réglementation
+      objectif: Respect de la vie privée, Législation renforcée
+
+    - description: Éduquer et sensibiliser à l’échelle européenne à la valeur des données à caractère personnel et aux méthodes de protection de ces données car “on a tous quelque chose à cacher”.
+      theme: Sensibilisation, Données personnelles
+      objectif: Éducation à la vie privée, Sensibilisation aux données
+
+    - description: Harmoniser la législation sur les droits des femmes de la façon la plus progressiste au sein de l'Union. Créer un fonds européen pour lutter contre les violences faites aux femmes, y compris les violences numériques.
+      theme: Droits des femmes, Violences
+      objectif: Égalité des genres, Lutte contre les violences
+
+    - description: Affirmer la puissance de l’Europe en consolidant une défense européenne opérationnelle en favorisant l’émergence d’un pilier européen de l’OTAN et en développant la coopération entre armées européennes, la préférence communautaire sur l’achat d’armes et une doctrine de cyberdéfense.
+      theme: Défense, Sécurité
+      objectif: Sécurité européenne, Défense commune
+
+    - description: Approfondir la politique de l’UE en matière de cyberdéfense et de lutte contre les ingérences étrangères.
+      theme: Cyberdéfense, Sécurité
+      objectif: Sécurité numérique, Lutte contre les ingérences
+
+    - description: Créer un “Netflix européen” pour accéder à toutes les productions culturelles financées par les fonds publics.
+      theme: Culture, Numérique
+      objectif: Promotion culturelle, Accès à la culture européenne
+
+    - description: Mettre en place une Assurance transitions emplois adossée à un Compte individuel de formation au niveau européen. Les transitions numériques et climatiques auxquelles l’UE est confrontée obligent les travailleurs à changer d’emplois au cours de leur vie professionnelle. Il est important d’accompagner les transitions des secteurs en difficulté vers les secteurs en expansion.
+      theme: Emploi, Formation professionnelle
+      objectif: Sécurité de l'emploi, Adaptation professionnelle
+
+- liste: Gauche unie pour le monde du travail soutenue par Fabien Roussel
+  tete_liste: Léon Deffontaines
+  propositions:
+    - description: Lutter contre la fraude dans le commerce électronique en obligeant les plateformes numériques à identifier les vendeurs, retirer les produits dangereux ou contrefaits, et prendre en charge les dégâts provoqués.
+      theme: Commerce électronique, Sécurité des produits
+      objectif: Protection des consommateurs, Lutte contre la fraude
+
+    - description: Soutenir la construction d’un cloud européen pour sécuriser les données sensibles contre l'accès étranger, en favorisant des projets comme le cloud de nouvelle génération.
+      theme: Cloud, Sécurité des données
+      objectif: Souveraineté numérique, Sécurité des données sensibles
+
+    - description: Faire participer les grandes entreprises numériques au financement des infrastructures Internet dans chaque État-membre, selon les flux consommés.
+      theme: Infrastructures Internet, Financement
+      objectif: Équité numérique, Financement des infrastructures
+
+    - description: Reconstruire une filière nationale et européenne des composants électroniques pour soutenir le développement de l’intelligence artificielle et de la robotique.
+      theme: Composants électroniques, Souveraineté technologique
+      objectif: Développement technologique, Souveraineté industrielle
+
+    - description: Reconstruire des filières nationales et européennes dans les équipements de télécom et de réseau pour garantir la souveraineté technologique.
+      theme: Télécommunications, Souveraineté technologique
+      objectif: Sécurité des réseaux, Souveraineté numérique
+
+    - description: Favoriser la construction de filières industrielles du numérique, notamment autour des technologies quantiques.
+      theme: Technologie quantique, Industrie numérique
+      objectif: Innovation technologique, Développement industriel
+
+    - description: Taxer les flux et stockages de données numériques, notamment des grands data centers, selon leur contribution au réchauffement climatique, et avancer vers le contrôle public des infrastructures numériques essentielles.
+      theme: Taxation numérique, Environnement
+      objectif: Réduction des émissions, Contrôle public des infrastructures
+
+    - description: Utiliser le numérique pour appuyer la souveraineté agricole, notamment en régulant l’utilisation des technologies spatiales d’observation et de géolocalisation.
+      theme: Agriculture, Technologies spatiales
+      objectif: Souveraineté alimentaire, Régulation agricole
+
+    - description: Développer l’indépendance et la souveraineté en matière de géolocalisation, observation et télécommunications spatiales en soutenant les projets européens comme Galileo et IRIS2.
+      theme: Souveraineté spatiale, Télécommunications
+      objectif: Indépendance technologique, Souveraineté européenne
+
+    - description: Lutter contre l’obsolescence programmée en favorisant les matériels électroniques reconditionnés et en soutenant la recherche sur la durabilité des produits numériques.
+      theme: Durabilité, Obsolescence programmée
+      objectif: Réduction des déchets, Durabilité des produits électroniques
+
+    - description: Mettre en place des garde-fous démocratiques pour assurer un déploiement utile de l’intelligence artificielle et la maîtrise de ses effets, notamment en termes d’emplois, en promouvant la formation, l'audit des algorithmes et la réglementation.
+      theme: Intelligence artificielle, Éthique
+      objectif: Emploi, Régulation de l'IA
+
+- liste: Ecologie au centre
+  tete_liste: Jean Marc Governatori
+  propositions:
+    - description: Protéger l’humain et l’emploi face au développement de l’IA et du numérique.
+      theme: Emploi, Intelligence artificielle
+      objectif: Protection de l'emploi, Régulation de l'IA
+
+    - description: Garantir notre cybersécurité tout en préservant la liberté du Web.
+      theme: Cybersécurité, Liberté d'Internet
+      objectif: Sécurité en ligne, Liberté d'expression
+
+    - description: Défendre les libertés individuelles, la participation citoyenne et protéger nos données personnelles.
+      theme: Libertés individuelles, Protection des données
+      objectif: Respect de la vie privée, Participation citoyenne
